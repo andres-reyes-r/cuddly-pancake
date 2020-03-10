@@ -9,13 +9,35 @@ body{
 
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid mediumaquamarine;
     margin: 0 auto;
+
 }
 
 #container h1 {
     font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+}
+
+#cabecera{ 
+    background: #d1bbee;
+    color: rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0em;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: -2px 1px 25px 0px rgba(149, 139, 192, .7);
+
+}
+
+#post{
+    padding: 1em;
+}
+#tag{
+    font-weight: normal;
+    font-size: .8em;
+    padding: 0 0 0 .2em;
 }
