@@ -1,6 +1,5 @@
-# Cuddly-pancake 🥞
-Blog de practica para git y gihub en plazti.com. 2020
 
+<<<<<<< HEAD
 #### En este curso de Plazti aprendo 
 > - Instalación de Git
 > - Comandos de Git
@@ -12,3 +11,5 @@ Blog de practica para git y gihub en plazti.com. 2020
 ######  *Para mas de HTML: Curso Desarrollo Web Online. Platzi.*
 
 **Andres Reyes. 2020.**
+=======
+>>>>>>> 7517f5ad944b85d1c278f56618dd4bae05d6ad3e
