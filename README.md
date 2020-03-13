@@ -16,5 +16,7 @@ Blog de practica para git y gihub en plazti.com. 2020
 
 > - creado por mi--- evidentemente
 
+> - elementos de linux y mac
+> - ala, pa toa la familia
 
 **Andres Reyes, 2020.**
