@@ -3,16 +3,13 @@ Holi, archivos para pruebas de git y github blowmind lol
 ahora vams a ver si esa vaina funciona
 
 soy un prooooo alv wey bien vergas todo esto.
-una prubas mas de hace commit.
+una prubas mas de hace commit.+
+
+alv mas lineas
 
 hagamos mas cambios aqui aver que berengenas
 
 force an rebase to git
-
-
-
-
-
 
 
 
