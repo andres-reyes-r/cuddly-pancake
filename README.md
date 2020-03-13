@@ -15,6 +15,6 @@ Blog de practica para git y gihub en plazti.com. 2020
 ######  *Para mas de HTML: Curso Desarrollo Web Online. Platzi.*
 
 > - creado por mi--- evidentemente
-
+> - elementos de linux y mac
 
 **Andres Reyes, 2020.**
