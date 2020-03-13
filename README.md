@@ -11,7 +11,10 @@ Blog de practica para git y gihub en plazti.com. 2020
 > - Pull request en GitHub
 > - Flujos de Trabajo en GitHub
 > - y algo de HTML basico.
+
 ######  *Para mas de HTML: Curso Desarrollo Web Online. Platzi.*
+
+> - creado por mi--- evidentemente
 
 
 **Andres Reyes, 2020.**
